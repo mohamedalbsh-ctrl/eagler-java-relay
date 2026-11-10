@@ -1,5 +1,4 @@
-name = "eagler-minecraft-relay"
-main = "worker.js"
+name = "theidealcite-proxy"main = "worker.js"
 compatibility_date = "2026-07-24"
 
 [vars]
